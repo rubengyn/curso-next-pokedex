@@ -4,3 +4,5 @@
 ```
 npm run build
 ```
+
+Logar com github
